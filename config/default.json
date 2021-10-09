@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://davak:zxcvbnmlp@cluster0.aioos.mongodb.net/eventPlanner?retryWrites=true&w=majority"
+}
